@@ -2906,11 +2906,6 @@ Prefab:
       propertyPath: playerPos
       value: 
       objectReference: {fileID: 1001774380}
-    - target: {fileID: 54298519621465324, guid: b1f2b752f46d8694c93c5fbb908eb058,
-        type: 2}
-      propertyPath: m_UseGravity
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b1f2b752f46d8694c93c5fbb908eb058, type: 2}
   m_IsPrefabParent: 0
