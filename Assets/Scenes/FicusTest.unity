@@ -501,7 +501,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400212, guid: e0daf9a389f773344b0f5de6fc641e20, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400212, guid: e0daf9a389f773344b0f5de6fc641e20, type: 3}
       propertyPath: m_LocalScale.x
@@ -527,6 +527,10 @@ Prefab:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: e0daf9a389f773344b0f5de6fc641e20, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4fdd45d0ee5fab44d9d22c8f6ca5b2dd, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0daf9a389f773344b0f5de6fc641e20, type: 3}
   m_IsPrefabAsset: 0
